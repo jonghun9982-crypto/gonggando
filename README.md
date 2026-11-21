@@ -1,7 +1,3 @@
-<div align="right">
-<a href="https://jonghun9982-crypto.github.io/gonggando/">Live</a>
-</div>
-
 # 공간도
 
 사무실 배치도 웹앱 (바닥 크기를 m 단위로 설정하고 공간을 배치)
